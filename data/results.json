@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-17",
+  "synthetic": true,
+  "pages_per_document": 3,
+  "page_points": [
+    612,
+    792
+  ],
+  "image_pixels_original": [
+    1800,
+    1200
+  ],
+  "image_pixels_after": [
+    720,
+    480
+  ],
+  "image_dpi_original": 300,
+  "image_dpi_after": 120,
+  "jpeg_quality": 75,
+  "jpeg_subsampling": 2,
+  "resample": "Pillow LANCZOS",
+  "content_stream_deflate_level": 9,
+  "object_cleanup": "compress_identical_objects(True, True)",
+  "versions": {
+    "python": "3.12.15",
+    "pypdf": "6.10.0",
+    "Pillow": "12.3.0",
+    "reportlab": "4.4.9",
+    "numpy": "2.3.5",
+    "poppler": "pdftoppm version 24.02.0"
+  },
+  "rows": [
+    {
+      "kind": "text",
+      "pages": 3,
+      "original_bytes": 4532,
+      "compressed_bytes": 3896,
+      "saving_percent": 14.033539276257724,
+      "text_identical": true,
+      "original_text_characters": 7044,
+      "images": [],
+      "original_sha256": "a80fb1e2027fee9b5dba01e6938f1046c918ee8700fd5f1ad38e856fffbe4d4a",
+      "compressed_sha256": "7802ecf9d6de31535ec97e310e5aa57349fe64619a6039215a3581ffe863216f"
+    },
+    {
+      "kind": "images",
+      "pages": 3,
+      "original_bytes": 14209765,
+      "compressed_bytes": 116907,
+      "saving_percent": 99.17727703449002,
+      "text_identical": true,
+      "original_text_characters": 0,
+      "images": [
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        },
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        },
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        }
+      ],
+      "original_sha256": "9ab0176be68926d4d993a0ec13ab383c52292e83d5405bbb7bbaa9eb5ea4dbcf",
+      "compressed_sha256": "6b225fdc3bf5b5151246f4604dd9c6bf1bb72154e3f19e023f55fbe5a6abf95a"
+    },
+    {
+      "kind": "mixed",
+      "pages": 3,
+      "original_bytes": 14212097,
+      "compressed_bytes": 118802,
+      "saving_percent": 99.16407832003961,
+      "text_identical": true,
+      "original_text_characters": 2634,
+      "images": [
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        },
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        },
+        {
+          "before": [
+            1800,
+            1200
+          ],
+          "after": [
+            720,
+            480
+          ]
+        }
+      ],
+      "original_sha256": "342f4c03bec7a62f5377887cf3dcef8261a35482bcc44e3e12e83b8bc6d60e1e",
+      "compressed_sha256": "ab1533c26a8d696340579d18987e9b9f5145875a50759cbcad723cb962b04aca"
+    }
+  ]
+}

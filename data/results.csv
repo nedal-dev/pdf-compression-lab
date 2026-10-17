@@ -1,0 +1,4 @@
+kind,pages,original_bytes,compressed_bytes,saving_percent,text_identical,original_text_characters
+text,3,4532,3896,14.033539276257724,True,7044
+images,3,14209765,116907,99.17727703449002,True,0
+mixed,3,14212097,118802,99.16407832003961,True,2634
